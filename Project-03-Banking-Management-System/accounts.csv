@@ -1,0 +1,3 @@
+Account_Number,Customer_ID,Account_Type,PIN,Balance
+10001,101,Savings,0000,4500.0
+10002,102,Savings,1122,6000.0
